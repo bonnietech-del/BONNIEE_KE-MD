@@ -42,7 +42,9 @@
 
 2. **CLICK HERE 👇 TO PAIR**
 
-<a href="https://github.com/kismatnayoh/BONNIEE_KE-MD/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+# 
+<a href="https://github.com/BONNIEE_KE-MD/SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 3. Deploy on heroku
