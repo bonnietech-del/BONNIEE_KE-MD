@@ -36,13 +36,13 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com//BONNIEE_KE-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
+# 
+<a href="https://github.com/kismatnayoh/BONNIEE_KE-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 2. Get Session ID (By pairing code)
    > 
-     <a href='https://github.com//BONNIEE_KE-MD-scan-pair.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+     <a href="https://github.com/kismatnayoh/BONNIEE_KE-MD/SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 3. Deploy on heroku
