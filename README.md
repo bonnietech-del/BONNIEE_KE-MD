@@ -12,7 +12,7 @@
 <p align="center"> Introducing BONNIEE_KE 𝙈𝙙, A Simple WhatsApp user BOT, Created by 𝘽𝙤𝙣𝙣𝙞𝙚 𝙆𝙀🇰🇪 𝙏𝙚𝙘𝙝 𝙀𝙢𝙥𝙞𝙧𝙚.
 </p>
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/_d0057b63-5591-494e-a708-d09c5eab9f0c.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="(https://telegra.ph/file/8d7722777d6713e087937.jpg)" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>&</a>
  ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
@@ -36,13 +36,13 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/BONNIEE_KE-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.robots.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/BONNIEE_KE-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shield.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
 2. Get Session ID (By pairing code)
    > 
-     <a href='https://𝘽𝙤𝙣𝙣𝙞𝙚 𝙆𝙀🇰🇪-MD-scan-pair.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.robots.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+     <a href='https://BONNIEE_KE-MD-scan-pair.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shield.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 3. Deploy on heroku
