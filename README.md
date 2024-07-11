@@ -42,9 +42,10 @@
 
 2. **CLICK HERE 👇 TO PAIR**
 
-2.𝔾𝕖𝕥 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻 (ℙ𝔸𝕀ℝ𝕀ℕ𝔾)
-    <br>
-<a href='https://github.com/kismatnayoh/BONNIE_KE-MD/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
+2.<details>
+<summary>SESSION_ID DEPLOY</summary>
+<a href="https://web.BONNIEE_KE-MD.co.ke/deploy/platforms/heroku"><img src="https://img.shields.io/badge/CLICK%20HERE-red" alt="Pairing Code" width="150"></a>
+</details>
 
 3. Deploy on heroku
     <br>
