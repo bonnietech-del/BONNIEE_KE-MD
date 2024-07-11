@@ -40,10 +40,11 @@
 <a href="https://github.com/kismatnayoh/BONNIEE_KE-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
-2. Get Session ID (By pairing code)
-   > 
-     <a href="https://github.com/kismatnayoh/BONNIEE_KE-MD/Error"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEPLOYON-GITHUB -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+2. **CLICK HERE 👇 TO PAIR**
 
+<a href="https://github.com/kismatnayoh/BONNIEE_KE-MD/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 3. Deploy on heroku
     <br>
 <a href='https://dashboard.heroku.com/new?template=https://github.com/BONNIEE_KE-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
