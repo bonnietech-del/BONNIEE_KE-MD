@@ -1,15 +1,15 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> 𝙍𝙄𝘾𝙃𝙄𝙀𝙀 𝙀𝙈𝙋𝙄𝙍𝙀 𝙏𝙀𝘾𝙃 </h1>
+ <h1 align="center"> 𝘽𝙊𝙉𝙉𝙄𝙀𝙀_𝙆𝙀 𝙀𝙈𝙋𝙄𝙍𝙀 𝙏𝙀𝘾𝙃 </h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+𝙍𝙄𝘾𝙃𝙄𝙀𝙀+𝙏𝙀𝘾𝙃+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝙍𝙄𝘾𝙃𝙄𝙀𝙀𝙏𝙀𝘾𝙃)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+𝘽𝙊𝙉𝙉𝙄𝙀𝙀_𝙆𝙀+𝙏𝙀𝘾𝙃+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝙍𝙄𝘾𝙃𝙄𝙀𝙀𝙏𝙀𝘾𝙃)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> Introducing 𝙍𝙄𝘾𝙃𝙄𝙀𝙀 𝙈𝙙, A Simple WhatsApp user BOT, Created by 𝙍𝙞𝙘𝙝𝙞𝙚𝙚 𝙏𝙚𝙘𝙝 𝙀𝙢𝙥𝙞𝙧𝙚.
+<p align="center"> Introducing 𝘽𝙊𝙉𝙉𝙄𝙀𝙀_𝙆𝙀 𝙈𝙙, A Simple WhatsApp user BOT, Created by 𝘽𝙊𝙉𝙉𝙄𝙀𝙀_𝙆𝙀 𝙏𝙚𝙘𝙝 𝙀𝙢𝙥𝙞𝙧𝙚.
 </p>
 
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/8d7722777d6713e087937.jpg" alt="01" border="0" /></a>                     
@@ -36,13 +36,13 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com//kismatnayoh/BONNIEE_KE-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com//BONNIEE_KE-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
 2. Get Session ID (By pairing code)
    > 
-     <a href='https://github.com//kismatnayoh/BONNIEE_KE-MD-scan-pair.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+     <a href='https://github.com//BONNIEE_KE-MD-scan-pair.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 3. Deploy on heroku
@@ -65,7 +65,7 @@ Please Use Node Version Higher to Get The Best Performance.
 
 ## Support 
 ## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r" target="_blank">
+<a href="https://whatsapp.com/channel/0029Vaj4B7YEFeXnAZYZIo0j" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -74,7 +74,7 @@ Please Use Node Version Higher to Get The Best Performance.
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me+255673750170">
+   <a href="https://wa.me+254740479599">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
@@ -85,8 +85,8 @@ HOW TO REACH THE OWNER?
 
 
 
-## Makesure you follow my channel for latest updates for TOPU MD bot and free CC
- [`WA CHANNEL`](https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r)
+## Makesure you follow my channel for latest updates for BONNIEE_KE MD bot and free CC
+ [`WA CHANNEL`](https://whatsapp.com/channel/0029Vaj4B7YEFeXnAZYZIo0j)
 
 
 
@@ -94,7 +94,7 @@ HOW TO REACH THE OWNER?
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
    
-## Thankyou for choosing TOPU MD bot 
+## Thankyou for choosing BONNIEE_KE MD bot 
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -102,15 +102,15 @@ HOW TO REACH THE OWNER?
 ## Contributions
 
 
-Contributions to *TOPU-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to *BONNIEE_KE-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 # Security Notice
-TOPU Md is safe for your WhatsApp and heroku
+BONNIE_KE Md is safe for your WhatsApp and heroku
 
 ## Reporting a Vulnerability
 
 
-## powered by TOPU MD
+## powered by BONNIE_KE MD
 
 
 ## THANKS TO
@@ -125,9 +125,9 @@ TOPU Md is safe for your WhatsApp and heroku
 ## License
 
 
-The *TOPU-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *BONNIE_KE-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *TOPU-MD*  to enhance your Whatsapp more enjoyable
-☣Powered by TOPU Tech
+Enjoy the diverse features of the *BONNIEE_KE-MD*  to enhance your Whatsapp more enjoyable
+☣Powered by BONNIEE_KE TECH
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
