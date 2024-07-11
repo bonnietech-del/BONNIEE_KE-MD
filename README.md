@@ -42,8 +42,7 @@
 
 2. Get Session ID (By pairing code)
    > 
-     <a href="https://github.com/kismatnayoh/BONNIEE_KE-MD/SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
+     <a href="https://github.com/kismatnayoh/BONNIEE_KE-MD/Error"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEPLOYON-GITHUB -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 3. Deploy on heroku
     <br>
