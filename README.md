@@ -12,7 +12,7 @@
 <p align="center"> Introducing BONNIEE_KE 𝙈𝙙, A Simple WhatsApp user BOT, Created by 𝘽𝙤𝙣𝙣𝙞𝙚 𝙆𝙀🇰🇪 𝙏𝙚𝙘𝙝 𝙀𝙢𝙥𝙞𝙧𝙚.
 </p>
 
-  <a href="https://ibb.co/N6NMDtn"><img src="(https://telegra.ph/file/8d7722777d6713e087937.jpg)" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="([https://telegra.ph/file/8d7722777d6713e087937.jpg](https://telegra.ph/file/8d7722777d6713e087937.jpg))" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>&</a>
  ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
@@ -126,7 +126,7 @@ BONNIEE_KE Md is safe for your WhatsApp and heroku
 ## License
 
 
-The *TOPU-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *BONNIEE_KE-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *BONNIEE_KE-MD*  to enhance your Whatsapp more enjoyable
 ☣Powered by BONNIEE_KE Tech
