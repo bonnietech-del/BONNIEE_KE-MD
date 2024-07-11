@@ -42,14 +42,9 @@
 
 2. **CLICK HERE 👇 TO PAIR**
 
-  ***Get `SESSION ID` by [`SCANING QR`](https://BONNIEE_KE-MD-session-backup.onrender.com/qr) or server 2 qr code
+2.𝔾𝕖𝕥 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻 (ℙ𝔸𝕀ℝ𝕀ℕ𝔾)
     <br>
-<a href="https://BONNIEE_KE-MD-qr-ngt2.onrender.com"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-2.  [`PARING CODE`](https://BONNIEE_KE-MD-session-1-1k23.onrender.com/pair). 𝙤𝙧 𝙨𝙚𝙧𝙫𝙚𝙧 2 𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚
-    <br>
-<a href="https://BONNIEE_KE-MD-session.onrender.com/pair"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2-h?color=green&style=for-the-badge&logo=msi"></a>
+<a href='https://github.com/kismatnayoh/BONNIE_KE-MD/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
 3. Deploy on heroku
     <br>
