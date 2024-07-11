@@ -46,6 +46,9 @@
 <summary>SESSION_ID DEPLOY</summary>
 <a href="https://web.BONNIEE_KE-MD.co.ke/deploy/platforms/heroku"><img src="https://img.shields.io/badge/CLICK%20HERE-red" alt="Pairing Code" width="150"></a>
 </details>
+<summary>GET YOUR CREDS.JSON FILE</summary>
+
+<a href="https://BONNIEE_KE-MD/bots/kismatnayoh/sessions/"><img src="https://img.shields.io/badge/CLICK%20HERE-blue" alt="Pairing Code" width="150"></a>
 
 3. Deploy on heroku
     <br>
