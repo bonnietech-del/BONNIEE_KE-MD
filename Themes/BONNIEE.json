@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Richie_Tech",
-    "theme": "Richiee",
+    "AUTHOR": "BONNIEE_Tech",
+    "theme": "BONNIEE",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
     "STRINGS": { 
@@ -11,15 +11,15 @@
             "UPDATED_LOCAL": "*Successfully Updated!*"
         },  
         "global": {      
-            "botName": "Richiee_Tech",
+            "botName": "BONNIEE_Tech",
             "body": "whatsapp User Bot", 
-            "greet2" : "Thanks To Richiee Tech",
+            "greet2" : "Thanks To BONNIEE Tech",
             "pic1": "https://telegra.ph/file/_d0057b63-5591-494e-a708-d09c5eab9f0c.jpg", 
             "greet" : "Believe it",
             "dotbody" : "I decided being Pirate King.",
             "emojii" : "🍑", 
-            "promote": "Admin Role Given to Richiee Tech",
-            "pmallow": "*Hii,This is Richiee Tech\n You have been blocked for spamming.\n\n _Powered by Richiee md_",
+            "promote": "Admin Role Given to BONNIEE Tech",
+            "pmallow": "*Hii,This is Bonniee Tech\n You have been blocked for spamming.\n\n _Powered by BONNIEE md_",
             "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n Join Public Support Channel : \nhttps://https://whatsapp.com/channel/0029Vaj4B7YEFeXnAZYZIo0j\n\n*Powered by Bonniee*",
             "permited": "Hii Sir*\n\nNow You are permitted by my owner to pm now.\n\n _Powered by Bonnie_", 
             "revoked" : "*Hii Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Powered by Bonnie_",
