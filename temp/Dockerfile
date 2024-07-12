@@ -1,6 +1,6 @@
 FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/BONNIEE_KE-MD/BONNIEE_KE.git /root/BONNIEE_KE-MD
+RUN git clone https://github.com/kismatnayoh/BONNIEE_KE-MD/BONNIEE_KE-MD.git /root/BONNIEE_KE-MD
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
