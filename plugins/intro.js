@@ -50,7 +50,7 @@
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/BONNIEE_KE_MD' // Source URL
+var surl = 'https://github.com/kismatnayoh/BONNIEE_KE-MD'// Source URL
 const number = '255625774543'
 var name = ' BONNIEE_KE 𝕋𝔼ℂℍ'
 var body = 'BONNIEE_TECHS 𝛨𝛯𝑅𝛯'
@@ -65,7 +65,7 @@ let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │ good vibes : 𝐒𝐓𝐀𝐘 𝐂𝐋𝐀𝐌
 │ Phone     : wa.me/254740479599
 │ Youtube   : youtube.com/@hesbonogechi5942
-│ GitHub    : https://github.com/BONNIEE_KE 
+│ GitHub    : https://github.com/kismatnayoh/BONNIEE_KE-MD 
 
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
@@ -76,7 +76,7 @@ let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
  //---------------------------------------------------------------------------
  smd({
              pattern: "intro",
-             alias: ["BONNIEE_KE","veno"],
+             alias: ["BONNIEE_KE","BONNIEE_KE-MD"],
              desc: "Show intro of user",
              category: "fun",
              filename: __filename,
