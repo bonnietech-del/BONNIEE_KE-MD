@@ -1,19 +1,19 @@
 {
-   "name": "Topu-md",
+   "name": "Bonniee_ke-MD",
    "version": "2.5.0",
-   "description": "Multi device whatsapp bot by Toputech ....",
+   "description": "Multi device whatsapp bot by Bonniee KE ....",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name Topumdai || node .",
-      "Toputech ": "pm2 start . --deep-monitoring --attach --name Topumdai || node .",
+      "run": "pm2 start . --deep-monitoring --attach --name Bonniee_ke-MD || node .",
+      "Toputech ": "pm2 start . --deep-monitoring --attach --name Bonniee_ke-MD || node .",
       "start": "pm2 start . --attach --name Topumdai",
       "stop": "pm2 stop Topumdai",
-      "heroku-postbuild": "git clone https://github.com/Toputech/Topu-ai.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone https://github.com/Toputech/Topu-ai.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "heroku-postbuild": "git clone https://github.com/kismatnayoh/BONNIEE_KE-MD.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+      "fis-heroku-postbuild": "git clone https://github.com/kismatnayoh/BONNIEE_KE-MD.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "Toputech",
+   "author": "Bonniee tech",
    "license": "Apache-2.0",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
@@ -75,10 +75,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/Toputech/Topu-ai.git"
+      "url": "git+https://github.com/kismatnayoh/BONNIEE_KE-MD.git"
    },
    "bugs": {
-      "url": "https://github.com/Toputech/Topu-ai/issues"
+      "url": "https://github.com/kismatnayoh/BONNIEE_KE-MD./issues"
    },
-   "homepage": "https://github.com/Toputech/Topu-ai#readme"
+   "homepage": "https://github.com/kismatnayoh/BONNIEE_KE-MD#readme"
 }
