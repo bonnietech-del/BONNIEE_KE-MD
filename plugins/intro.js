@@ -50,22 +50,22 @@
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/Kingjux/Venocyber-md' // Source URL
-const number = '255625774543'
-var name = ' VENOCYBER 𝕋𝔼ℂℍ'
+var surl = 'https://github.com/kismatnayoh/BONNIEE_KE-MD' // Source URL
+const number = '254740479599'
+var name = ' BONNIEE 𝕋𝔼ℂℍ'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg'
+var image = 'https://telegra.ph/file/8d7722777d6713e087937.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
-│       「 VENOCYBER 𝐓𝐄𝐂𝐇 𝐈𝐍𝐓𝐑𝐎  」
-│ Name      : VENOCYBER 
-│ Place       : NJOMBE, TANZANIA
+│       「 BONNIEE 𝐓𝐄𝐂𝐇 𝐈𝐍𝐓𝐑𝐎  」
+│ Name      : BONNIEE 
+│ Place       : BONNIEE, KENYA 
 │ Gender    :  𝐌𝐀𝐋𝐄
 │ Age          : 20
 │ education : 𝐁𝐒c IT 
 │ good vibes : 𝐒𝐓𝐀𝐘 𝐂𝐋𝐀𝐌
-│ Phone     : wa.me/255625774543
+│ Phone     : wa.me/254740479599
 │ Youtube   : youtube.com/@JASTINMTEWA-vn9pl
-│ GitHub    : https://github.com/Kingjux 
+│ GitHub    : https://github.com/kismatnayoh/BONNIEE_KE-MD 
 
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
@@ -76,7 +76,7 @@ let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
  //---------------------------------------------------------------------------
  smd({
              pattern: "intro",
-             alias: ["venocyber","veno"],
+             alias: ["BONNIEE","BONNIE"],
              desc: "Show intro of user",
              category: "fun",
              filename: __filename,
