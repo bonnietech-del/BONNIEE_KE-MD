@@ -114,11 +114,12 @@ BONNIE_KE Md is safe for your WhatsApp and heroku
 
 
 ## THANKS TO
+
 [france king]
 
 [Venocyber]
 
-[gifted tech]
+[Silva TechB]
 
 [king ibrahim]
 
