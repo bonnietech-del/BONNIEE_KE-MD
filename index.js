@@ -2,7 +2,7 @@ const bot = require(__dirname + '/lib/amd')
 const { VERSION } = require(__dirname + '/config')
 
 const start = async () => {
-    Debug.info(`Starting Topu ${VERSION}`)
+    Debug.info(`Starting bonnie ${VERSION}`)
   try {
     await bot.init()
     //bot.logger.info('⏳ Database syncing!')
@@ -14,4 +14,4 @@ const start = async () => {
   }
 }
 start();
-/**TOPU TECH WHATSAPPP BOT**/
+/**WHATSAPPP BOT**/
