@@ -1,15 +1,15 @@
 {
-  "name": "TOPU-Md",
+  "name": "BONNIE_KE-Md",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://telegra.ph/file/04e09c20e70de180ee319.jpg",
-  "keywords": ["Topu-md", "TOPU", "TOPU MD","TOPU MD wabot","Topu","Toputech"],
+  "logo": "https://telegra.ph/file/8d7722777d6713e087937.jpg",
+  "keywords": ["BONNIEE_KE-md", "BONNIEE_KE", "BONNIEE_KE MD","BONNIEE_KE MD wabot","BONNIEE","BONNIEE TECH"],
   "success_url": "/",
   "stack": "container",
 
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "topu tech",
+      "value": "Bonniee tech",
       "required": true
     },
 
@@ -32,7 +32,7 @@
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required": false,
-      "value": "Africa/Dar es salaam"
+      "value": "Africa/Nairobi Kenya"
     },
     "READ_COMMAND": {
       "description": " Read bot cmds",
@@ -94,7 +94,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "255673750170"
+      "value": "254740479599"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -106,12 +106,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Topu",
+      "value": "Bonniee",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "Topu dmh",
+      "value": "Bonniee dmh",
       "required": false
     }
   },
