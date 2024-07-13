@@ -6,20 +6,20 @@ global.audio = "";
 global.video = "";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "Topudmh@gmail.com";
-global.location = "Njombe,Tanzania.";
+global.email = "hesbonogechi79@gmail.com";
+global.location = "Kisii,Kenya.";
 global.mongodb = process.env.MONGODB_URI || "";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
-global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Dar es salaam";
-global.github = process.env.GITHUB || "https://github.com/Toputech/Topu-ai";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/13f1bb945857eb9b1eca6.jpg";
-global.devs = "255673750170";
-global.sudo = process.env.SUDO || "255673750170";
-global.owner = process.env.OWNER_NUMBER || "255673750170";
+global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi Kenya";
+global.github = process.env.GITHUB || "https://github.com/kismatnayoh/BONNIEE_KE-MD";
+global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vaj4B7YEFeXnAZYZIo0j";
+global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vaj4B7YEFeXnAZYZIo0j";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/8d7722777d6713e087937.jpg";
+global.devs = "254740479599";
+global.sudo = process.env.SUDO || "254740479599";
+global.owner = process.env.OWNER_NUMBER || "254740479599";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "true";
@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "𝖂𝖔𝖜 𝖙𝖔𝖕𝖚 𝖒𝖉 𝖍𝖆𝖘 𝖏𝖚𝖘𝖙 𝖌𝖊𝖓𝖊𝖗𝖆𝖙𝖊𝖉 𝖆 𝖓𝖊𝖜 𝖋𝖎𝖑𝖊",
-  author: process.env.PACK_AUTHER || "TOPU",
+  caption: process.env.CAPTION || "𝖂𝖔𝖜  𝕭𝖔𝖓𝖓𝖎𝖊𝖊_𝕶𝕷 𝖒𝖉 𝖍𝖆𝖘 𝖏𝖚𝖘𝖙 𝖌𝖊𝖓𝖊𝖗𝖆𝖙𝖊𝖉 𝖆 𝖓𝖊𝖜 𝖋𝖎𝖑𝖊",
+  author: process.env.PACK_AUTHER || "𝕭𝖔𝖓𝖓𝖎𝖊𝖊",
   packname: process.env.PACK_NAME || "♥️",
-  botname: process.env.BOT_NAME || "TOP-Md",
-  ownername: process.env.OWNER_NAME || "TOPU",
+  botname: process.env.BOT_NAME || "𝕭𝖔𝖓𝖓𝖎𝖊𝖊_𝕶𝕰-Md",
+  ownername: process.env.OWNER_NAME || "𝖁𝖔𝖓𝖓𝖎𝖊𝖊",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
