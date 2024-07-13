@@ -7,7 +7,7 @@ RUN npm cache clean --force
 RUN rm -rf /root/BONNIEE_KE-MD/node_modules
 
 # Install dependencies
-WORKDIR /root/Topumdai
+WORKDIR /root//kismatnayoh/BONNIEE_KE-MD
 RUN npm install
 
 # Add additional Steps To Run...
