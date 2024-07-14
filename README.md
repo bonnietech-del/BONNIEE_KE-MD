@@ -85,8 +85,8 @@ HOW TO REACH THE OWNER?
 
 
 
-## Makesure you follow my channel for latest updates for BONNIEE_KE MD bot and free CC
- [`WA CHANNEL`](https://whatsapp.com/channel/0029Vaj4B7YEFeXnAZYZIo0j)
+## Makesure you follow my group for latest updates for BONNIEE_KE MD bot and free CC
+ [`WA GROUP FOR BONNIEE_KE-MD`]((https://chat.whatsapp.com/HRn1EEb7GikIkAb0IDqzRi))
 
 
 
