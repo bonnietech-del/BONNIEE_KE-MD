@@ -36,7 +36,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/kismatnayoh/BONNIEE_KE-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/bonnietech-del/BONNIEE_KE-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -47,7 +47,7 @@
 
 3. Deploy on heroku
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/BONNIEE_KE-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://dashboard.heroku.com/new?template=[https://github.com/bonnietech-del/BONNIEE_KE-MD)' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
