@@ -75,11 +75,11 @@ HOW TO REACH THE OWNER?
  
    
    <a href="https://wa.link/a8gu7w">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp Number-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
 
-    ## Ask any thing
+    ##Ask Anything Here .. Always Online to Deliver 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
