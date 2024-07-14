@@ -6,11 +6,11 @@
    "type": "commonjs",
    "scripts": {
       "run": "pm2 start . --deep-monitoring --attach --name Bonniee_ke-MD || node .",
-      "Toputech ": "pm2 start . --deep-monitoring --attach --name Bonniee_ke-MD || node .",
-      "start": "pm2 start . --attach --name Topumdai",
-      "stop": "pm2 stop Topumdai",
-      "heroku-postbuild": "git clone https://github.com/kismatnayoh/BONNIEE_KE-MD.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone https://github.com/kismatnayoh/BONNIEE_KE-MD.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "Bonniee_ke-md Tech": "pm2 start . --deep-monitoring --attach --name Bonniee_ke-MD || node .",
+      "start": "pm2 start . --attach --name Bonniee_ke-md",
+      "stop": "pm2 stop Bonniee_ke-md",
+      "heroku-postbuild": "git clone https://github.com/bonnietech-del/BONNIEE_KE-MD.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+      "fis-heroku-postbuild": "git clone https://github.com/bonnietech-del/BONNIEE_KE-MD.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
    "author": "Bonniee tech",
@@ -75,10 +75,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/kismatnayoh/BONNIEE_KE-MD.git"
+      "url": "git+https://github.com/bonnietech-del/BONNIEE_KE-MD.git"
    },
    "bugs": {
-      "url": "https://github.com/kismatnayoh/BONNIEE_KE-MD./issues"
+      "url": "https://github.com/bonnietech-del/BONNIEE_KE-MD/issues"
    },
-   "homepage": "https://github.com/kismatnayoh/BONNIEE_KE-MD#readme"
+   "homepage": "https://github.com/bonnietech-del/BONNIEE_KE-MD#readme"
 }
