@@ -5,6 +5,6 @@
 -----------------------------------------------------------------
 
 
-# TOPU MD
+# BONNIEE_KE-MD
 
-You can send anything via VODACOM Mpesa number 0757768881<b>Elibariki Kanuya </b>
+You can send anything via Safaricom Mpesa number 0740479599<b>HESBON OGECHI MACHOKA </b>
