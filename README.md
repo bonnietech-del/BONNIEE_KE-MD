@@ -86,7 +86,11 @@ HOW TO REACH THE OWNER?
 
 
 ## Makesure you follow my group for latest updates for BONNIEE_KE MD bot and free CC
- [`WA GROUP`]((https://chat.whatsapp.com/HRn1EEb7GikIkAb0IDqzRi))
+ 
+   <a href="https://chat.whatsapp.com/HRn1EEb7GikIkAb0IDqzRi">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp Group&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a
 
 
 
