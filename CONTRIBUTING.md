@@ -7,4 +7,4 @@
 
 # BONNIEE_KE-MD
 
-You can send anything via Safaricom Mpesa number 0740479599<b>HESBON OGECHI MACHOKA </b>
+You can send anything via Safaricom Mpesa number 0740479599 <b> HESBON OGECHI MACHOKA </b>
